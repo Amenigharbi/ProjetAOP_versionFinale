@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/projetAmeni_aop-master/consumer/ConsumerService.iml" filepath="$PROJECT_DIR$/projetAmeni_aop-master/consumer/ConsumerService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projetAmeni_aop-master/Producer/Producer.iml" filepath="$PROJECT_DIR$/projetAmeni_aop-master/Producer/Producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/projetAmeni_aop-master.iml" filepath="$PROJECT_DIR$/.idea/projetAmeni_aop-master.iml" />
+    </modules>
+  </component>
+</project>
